@@ -1,0 +1,4 @@
+peer to peer data(packets would be better) send(improve current code)
+heap over flow- 
+buffer overflow-
+stack canary is not there(program)
